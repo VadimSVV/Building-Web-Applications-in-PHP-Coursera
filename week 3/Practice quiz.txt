@@ -29,4 +29,4 @@ Q8.Which of the following CSS selectors is between the content area and the
 ANS. padding
 
 Q9.What tag is used to import a style sheet into an HTML document?
-ANS. LINKS
+ANS. LINK
